@@ -1,6 +1,8 @@
 # rename
 rename all member nicknames with a simple python code 
-\n 
+
+
 how to install 
-\n\t\t
-```git clone```
+
+
+```git clone https://github.com/HeRmIoN1/rename.git & cd rename & install.bat```
