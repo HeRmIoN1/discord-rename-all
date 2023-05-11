@@ -1,5 +1,5 @@
 <h1 align="center">
-rename all member nicknames with a simple python code 
+rename all discord member nicknames with a simple python code 
 </h1>
 
 how to install 
