@@ -1,0 +1,8 @@
+discord
+colorama
+Fore
+fade
+requests
+discord.ext
+commands
+pystyle
