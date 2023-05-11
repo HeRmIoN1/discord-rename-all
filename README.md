@@ -1,4 +1,3 @@
-# rename
 <h1 align="center">
 rename all member nicknames with a simple python code 
 </h1>
