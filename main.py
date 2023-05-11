@@ -37,7 +37,7 @@ for o in faded_banner:
 time.sleep(1)
 print(f'\n{Fore.GREEN}hey{Fore.YELLOW} :)')
 time.sleep(2)
-TOKEN = "MTA4NjM4NzI2MzE5OTUyMzAyOA.GFS_3k.u9QmeexjTfJHlA86k6GABC81NSYSUPv2W9af4E"
+TOKEN = "your token"
 discord_bot = commands.Bot (command_prefix = "!" , intents = discord.Intents.all() ,activity=discord.Activity(type=discord.ActivityType.listening, name="Hermione is here"))
 discord_bot.remove_command('help')
 print(f'\n{Fore.GREEN} Type {Fore.YELLOW}!rename{Fore.GREEN} to start the process{Fore.RESET} \n')
