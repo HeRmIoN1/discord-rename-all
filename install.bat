@@ -1,3 +1,3 @@
 python -m pip install -r requirements.txt
 cls
-echo python main.py >> main.py
+echo python main.py
